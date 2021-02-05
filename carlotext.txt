@@ -14,10 +14,10 @@ Vuoi saperne di più? Prosegui su <a href="https://www.google.com" target="_blan
 
 <span id="a"> >>> </span>Ho lavorato per oltre dieci anni in una multinazionale operante nell'ambito della produzione, trading e vendita di elettricità, gas e derivati energetici. Partito dall'area Risk Management, ho contribuito alla crescita dell'azienda in ambito innovativo, divenendo infine co-creatore e responsabile di un brand full-digital retail lanciato con successo nel 2019. Ho inoltre portato avanti diversi progetti paralleli che mi hanno avvicinato a fintech, tecnologia, e recentemente startup e innovazione. É stato quasi inevitabile giunto a 38 anni volermi affrancare dall'azienda per lanciare il mio progetto imprenditoriale.<br>
 
-<span id="a"> >>> </span>Scrivo di tecnologia su <a href="https://hackernoon.com/u/carloocchiena" target="_blank">HackerNoon</a><!-- longcomment -->
-Parlo di trasformazione digitale su <a href="https://medium.com/@carloocchiena" target="_blank">Medium</a><!-- longcomment -->
-Il mio code repository è su <a href="https://github.com/carloocchiena" target="_blank">GitHub</a><!-- longcomment -->
-Ho scritto un ebook su sport e motivazione <a href="https://mailchi.mp/c2394308fc88/carloocchiena" target="_blank">che trovi qui!</a><!-- longcomment -->
+<span id="a"> >>> </span>Scrivo di tecnologia su <a href="https://hackernoon.com/u/carloocchiena" target="_blank">HackerNoon</a>
+Parlo di trasformazione digitale su <a href="https://medium.com/@carloocchiena" target="_blank">Medium</a>
+Il mio code repository è su <a href="https://github.com/carloocchiena" target="_blank">GitHub</a>
+Ho scritto un ebook su sport e motivazione <a href="https://mailchi.mp/c2394308fc88/carloocchiena" target="_blank">che trovi qui!</a>
 
 Mi trovi anche su vari social network tra cui:
 <a href="https://www.linkedin.com/in/carloocchiena/" target="_blank">Linkedin</a><!-- longlongcomment -->
