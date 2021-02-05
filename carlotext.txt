@@ -20,12 +20,12 @@ Il mio code repository è su <a href="https://github.com/carloocchiena" target="
 Ho scritto un ebook su sport e motivazione <a href="https://mailchi.mp/c2394308fc88/carloocchiena" target="_blank">che trovi qui!</a>
 
 Mi trovi anche su vari social network tra cui:
-<a href="https://www.linkedin.com/in/carloocchiena/" target="_blank">Linkedin</a><!-- longlongcomment -->
-<a href="https://www.facebook.com/pleaseverifyuseralreadylogged" target="_blank">Facebook</a><!-- longlongcomment -->
-<a href="https://twitter.com/carloocchiena" target="_blank">Twitter</a><!-- longlongcomment -->
-<a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a><!-- longlongcomment -->
+<a href="https://www.linkedin.com/in/carloocchiena/" target="_blank">Linkedin</a><!-- longcomment -->
+<a href="https://www.facebook.com/pleaseverifyuseralreadylogged" target="_blank">Facebook</a><!-- longcomment -->
+<a href="https://twitter.com/carloocchiena" target="_blank">Twitter</a><!-- longcomment -->
+<a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a><!-- longcomment -->
 
-Se preferisci,invece <!-- longlongomment -->, mi puoi <a href="mailto:hello@carloocchiena.com" target="_blank">scrivere una mail</a>.
+Se preferisci,invece <!-- longcomment -->, mi puoi <a href="mailto:hello@carloocchiena.com" target="_blank">scrivere una mail</a>.
 
 <span id="a"> >>> </span>A presto :)<br>
 <span id="a"> >>> </span> program terminated with exit code 0.
