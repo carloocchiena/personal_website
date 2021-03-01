@@ -7,8 +7,8 @@
 
 Benvenuto! Sono <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment -->
 
-<p>Sono il co-fondatore e CEO di Placeholder srl, la startup innovativa che ho lanciato nel 2021.<br>
-<span id="a"> >>> </span>Placeholder è una startup innovativa con la quale voglio rendere accessibile a tutte le aziende, indipendentemente dalla loro dimensione, strumenti tecnologici\digitali avanzati, per supportare l'evoluzione del loro business.
+<p>Sono il co-fondatore e CEO di Aziona srl, la startup innovativa che ho lanciato nel 2021.<br>
+<span id="a"> >>> </span>Aziona è una startup innovativa con la quale voglio rendere accessibile a tutte le aziende, indipendentemente dalla loro dimensione, strumenti tecnologici\digitali avanzati, per supportare l'evoluzione del loro business.
 
 Vuoi saperne di più? Prosegui su <a href="https://www.azionadigitale.com" target="_blank">Aziona</a><!-- longlonglongcomment -->
 
