@@ -10,7 +10,7 @@ Benvenuto! Sono <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment 
 <p>Sono il co-fondatore e CEO di Placeholder srl, la startup innovativa che ho lanciato nel 2021.<br>
 <span id="a"> >>> </span>Placeholder è una startup innovativa con la quale voglio rendere accessibile a tutte le aziende, indipendentemente dalla loro dimensione, strumenti tecnologici\digitali avanzati, per supportare l'evoluzione del loro business.
 
-Vuoi saperne di più? Prosegui su <a href="https://www.google.com" target="_blank">Placeholder</a><!-- longlonglongcomment -->
+Vuoi saperne di più? Prosegui su <a href="https://www.azionadigitale.com" target="_blank">Aziona</a><!-- longlonglongcomment -->
 
 <span id="a"> >>> </span>Ho lavorato per oltre dieci anni in una multinazionale operante nell'ambito della produzione, trading e vendita di elettricità, gas e derivati energetici. Partito dall'area Risk Management, ho contribuito alla crescita dell'azienda in ambito innovativo, divenendo infine co-creatore e responsabile di un brand full-digital retail lanciato con successo nel 2019. Ho inoltre portato avanti diversi progetti paralleli che mi hanno avvicinato a fintech, tecnologia, e recentemente startup e innovazione. É stato quasi inevitabile giunto a 38 anni volermi affrancare dall'azienda per lanciare il mio progetto imprenditoriale.<br>
 
