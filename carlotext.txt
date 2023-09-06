@@ -12,20 +12,17 @@ Benvenuto! Sono <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment 
 
 Vuoi saperne di più? Prosegui su <a href="https://www.azionadigitale.com" target="_blank">Aziona</a><!-- longlonglongcomment -->
 
-<span id="a"> >>> </span>Ho lavorato per oltre dieci anni in una multinazionale operante nell'ambito della produzione, trading e vendita di elettricità, gas e derivati energetici. Partito dall'area Risk Management, ho contribuito alla crescita dell'azienda in ambito innovativo, divenendo infine co-creatore e responsabile di un brand full-digital retail lanciato con successo nel 2019. Ho inoltre portato avanti diversi progetti paralleli che mi hanno avvicinato a fintech, tecnologia, e recentemente startup e innovazione. É stato quasi inevitabile giunto a 38 anni volermi affrancare dall'azienda per lanciare il mio progetto imprenditoriale.<br>
+<span id="a"> >>> </span>Ho lavorato per oltre dieci anni in una multinazionale operante nell'ambito della produzione, trading e vendita di elettricità, gas e derivati energetici. Partito dall'area Risk Management, ho contribuito con un ruolo apicale alla trasformazione digitale dell'azienda, divenendo infine co-creatore e responsabile di un brand full-digital retail lanciato con successo nel 2019. Ho inoltre portato avanti diversi progetti paralleli nel mondo del softeware open source.<br>
 
-<span id="a"> >>> </span>Scrivo di tecnologia su <a href="https://hackernoon.com/u/carloocchiena" target="_blank">HackerNoon</a>
-Parlo di trasformazione digitale su <a href="https://medium.com/@carloocchiena" target="_blank">Medium</a>
-Il mio code repository è su <a href="https://github.com/carloocchiena" target="_blank">GitHub</a>
-Ho scritto un ebook su sport e motivazione <a href="https://mailchi.mp/c2394308fc88/carloocchiena" target="_blank">che trovi qui!</a>
+<span id="a"> >>> </span>Il mio code repository è su <a href="https://github.com/carloocchiena" target="_blank">GitHub</a>
 
 Mi trovi anche su vari social network tra cui:
 <a href="https://www.linkedin.com/in/carloocchiena/" target="_blank">Linkedin</a><!-- longcomment -->
 <a href="https://www.facebook.com/pleaseverifyuseralreadylogged" target="_blank">Facebook</a><!-- longcomment -->
-<a href="https://twitter.com/carloocchiena" target="_blank">Twitter</a><!-- longcomment -->
+<a href="https://twitter.com/carloocchiena" target="_blank">X</a><!-- longcomment -->
 <a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a><!-- longcomment -->
 
-Se preferisci,invece <!-- longcomment -->, mi puoi <a href="mailto:carloocchiena@tutanota.com" target="_blank">scrivere una mail</a>.
+Se preferisci,invece <!-- longcomment -->, mi puoi <a href="mailto:carlo.occhiena@azionadigitale.com" target="_blank">scrivere una mail</a>.
 
 <span id="a"> >>> </span>A presto :)<br>
 <span id="a"> >>> </span> program terminated with exit code 0.
