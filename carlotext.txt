@@ -1,29 +1,29 @@
-<span id="a"> >>> </span> Avvio procedura di accesso utente:
+<span id="a"> >>> </span> User login initialized:
 
 <span id="a">username</span>:<span id="b">~</span><span id="c">$</span> web_admin<!-- longlonglonglongcomment -->
 <span id="a">password</span>:<span id="b">~</span><span id="c">$</span> ****<!-- longlongcomment -->*******<!-- longlonglonglongcomment -->
 
-<span id="a"> >>> </span> Accesso consentito <br/><!-- longlonglonglongcomment -->
+<span id="a"> >>> </span> Access granted <br/><!-- longlonglonglongcomment -->
 
-Benvenuto! Sono <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment -->
+Welcome! I am <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment -->
 
-<p>Sono il co-fondatore e CEO di Aziona srl, la startup innovativa che ho lanciato nel 2021.<br>
-<span id="a"> >>> </span>Aziona è una startup innovativa con la quale supportiamo l'evoluzione delle aziende energy.
+<p>I am the co-founder and CEO of Aziona Srl, the startup launched in 2021.<br>
+<span id="a"> >>> </span>Aziona is a tech company that supports the evolution of energy companies.
 
-Vuoi saperne di più? Prosegui su <a href="https://www.azionadigitale.com" target="_blank">Aziona</a><!-- longlonglongcomment -->
+Want to know more? Continue on <a href="https://www.azionadigitale.com" target="_blank">Aziona</a><!-- longlonglongcomment -->
 
-<span id="a"> >>> </span>Ho lavorato per oltre dieci anni in una multinazionale operante nell'ambito della produzione, trading e vendita di elettricità, gas e derivati energetici. Partito dall'area Risk Management, ho contribuito con un ruolo apicale alla trasformazione digitale dell'azienda, divenendo infine co-creatore e responsabile di un brand full-digital retail lanciato con successo nel 2019. Ho inoltre portato avanti diversi progetti paralleli nel mondo del software open source.<br>
+<span id="a"> >>> </span>I have worked for over ten years in a global corporate company operating in the production, trading, and sales of energy derivatives. Starting from the Risk Management area, I had a pivotal role in the company's digital transformation, eventually becoming the co-creator and head of a successful full-digital retail brand launched in 2019. I have also been involved in various parallel projects in the open-source software community.<br>
 
-<span id="a"> >>> </span>Il mio code repository è su <a href="https://github.com/carloocchiena" target="_blank">GitHub</a>
+<span id="a"> >>> </span>My code repository is on <a href="https://github.com/carloocchiena" target="_blank">GitHub</a>
 
-Mi trovi anche su vari social network tra cui:
+You can also find me on various social networks, including:
 <a href="https://www.linkedin.com/in/carloocchiena/" target="_blank">Linkedin</a><!-- longcomment -->
 <a href="https://www.facebook.com/pleaseverifyuseralreadylogged" target="_blank">Facebook</a><!-- longcomment -->
 <a href="https://twitter.com/carloocchiena" target="_blank">X</a><!-- longcomment -->
 <a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a><!-- longcomment -->
 
-Se preferisci,invece <!-- longcomment -->, mi puoi <a href="mailto:carlo.occhiena@azionadigitale.com" target="_blank">scrivere una mail</a>.
+If you prefer, instead <!-- longcomment -->, you can <a href="mailto:carlo.occhiena@azionadigitale.com" target="_blank">write me an email</a>.
 
-<span id="a"> >>> </span>A presto :)<br>
-<span id="a"> >>> </span> program terminated with exit code 0.
+<span id="a"> >>> </span>See you soon :)<br>
+<span id="a"> >>> </span>Program terminated with exit code 0.
 </p>
