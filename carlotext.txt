@@ -7,8 +7,8 @@
 
 Welcome! I am <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment -->
 
-<p>I am the co-founder and CEO of Aziona Srl, the startup launched in 2021.<br>
-<span id="a"> >>> </span>Aziona is a tech company that supports the evolution of energy companies.
+<p>I am the co-founder and CEO of Aziona Srl, the company I launched in 2021.<br>
+<span id="a"> >>> </span>Aziona is a tech company that supports the evolution of energy companies and develops tech products.
 
 Want to know more? Continue on <a href="https://www.azionadigitale.com" target="_blank">Aziona</a><!-- longlonglongcomment -->
 
