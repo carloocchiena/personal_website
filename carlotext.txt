@@ -8,15 +8,15 @@
 Welcome! I am <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment -->
 
 <p>I am the co-founder and CEO of Aziona Srl, the company I launched in 2021.<br>
-<span id="a"> >>> </span>Aziona is a tech company that supports the evolution of energy companies and develops tech products.
+<span id="a"> >>> </span>Aziona is a tech company that build tech prodcuts for energy companies.
 
-Want to know more? Continue on <a href="https://www.azionadigitale.com" target="_blank">Aziona</a><!-- longlonglongcomment -->
+Want to know more? Continue on <a href="https://www.azionadigitale.com" target="_blank">Aziona</a>.<!-- longlonglongcomment -->
 
 <span id="a"> >>> </span>I worked for over ten years in a global corporate company operating in the production, trading, and sales of energy derivatives. Starting from the Risk Management area, I had a pivotal role in the company's digital transformation, eventually becoming the co-creator and head of a successful full-digital retail brand launched in 2019. I have also been involved in various parallel projects in the open-source software community.<br>
 
 <span id="a"> >>> </span>I graduated in Economics & Finance from University of Genoa, with <a href="https://github.com/carloocchiena/quant" target="_blank">a thesis on Econophysics</a>.<br>
 
-<span id="a"> >>> </span>My code repository is on <a href="https://github.com/carloocchiena" target="_blank">GitHub</a>
+<span id="a"> >>> </span>My code repository is on <a href="https://github.com/carloocchiena" target="_blank">GitHub</a>.
 
 You can also find me on various social networks, including:
 <a href="https://www.linkedin.com/in/carloocchiena/" target="_blank">Linkedin</a><!-- longcomment -->
