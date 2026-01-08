@@ -12,7 +12,7 @@ Welcome! I am <span id="k">Carlo Occhiena</span>.<!-- longlonglonglongcomment --
 
 Want to know more? Continue on <a href="https://www.azionadigitale.com" target="_blank">Aziona</a>.<!-- longlonglongcomment -->
 
-<span id="a"> >>> </span>I worked for over ten years in a global corporate company operating in the production, trading, and sales of energy derivatives. Starting from the Risk Management area, I had a pivotal role in the company's digital transformation, eventually becoming the co-creator and head of a successful full-digital retail brand launched in 2019. I have also been involved in various parallel projects in the open-source software community.<br>
+<span id="a"> >>> </span>I worked for over ten years in a global corporate company operating in the production, trading and sales of energy derivatives. Starting from the Risk Management area, I had a pivotal role in the company's digital transformation, eventually becoming the co-creator and head of a successful full-digital retail brand launched in 2019. I have also been involved in various parallel projects in the open-source software community.<br>
 
 <span id="a"> >>> </span>I graduated in Economics & Finance from University of Genoa, with <a href="https://github.com/carloocchiena/quant" target="_blank">a thesis on Econophysics</a> and I am currently attending a Data Science MSc.<br>
 
